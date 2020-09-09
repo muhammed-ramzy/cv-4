@@ -1,0 +1,138 @@
+a {
+  font-family: 'Overpass', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #eaf6f6;
+}
+body {
+  font-family: 'Libre Baskerville', serif;
+  margin: 0;
+  text-align: center;
+  color: #40514E;
+  line-height: 2;
+}
+
+h1 {
+  color: #66BFBF;
+  font-size: 90px;
+  font-family: 'Dancing Script', cursive;
+  line-height: 2;
+  margin: 50px auto 0 auto;
+}
+
+h2{
+  color: #66BFBF;
+  font-family: 'Overpass', sans-serif;
+  font-size: 2.5em;
+  font-weight: 400;
+  line-height: 2;
+}
+
+h3{
+  color: #11999E;
+  font-family: 'Overpass', sans-serif;
+  font-size: 2em;
+}
+
+hr{
+  border: 8px dotted #EAF6F6;
+  border-bottom: none;
+  width: 5%;
+  margin: 100px auto;
+}
+
+p{
+  font-size: 1.1em;
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  padding-top: 50px;
+}
+
+
+.bottom-cloud{
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+  background-color: #EAF6F6;
+}
+
+.copy-right{
+  margin-bottom: 0;
+  padding: 5px 0 10px 0;
+  line-height: 4;
+  color: #EAF6F6;
+  font-size:  0.9rem;
+}
+
+.BUTTON_ONI{
+  padding-top: 20px;
+}
+
+.footer-link {
+  color: #11999E;
+}
+
+
+.Job{
+  font-weight: normal;
+}
+
+
+.last-message {
+  width: 30%;
+  margin: 40px auto 60px;
+}
+.middle-container{
+
+}
+
+.personal-description {
+   width: 30%;
+   margin: auto;
+}
+.profile-img{
+  margin-top: 100px;
+  width: 198.38px;
+}
+
+
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+
+}
+
+.skill-img-computer {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill-img-boy{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+
+
+.top-container{
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+
+}
+
+
+.top-cloud{
+  position: absolute;
+  right:250px;
+  top: 20px;
+}
